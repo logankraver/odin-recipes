@@ -1,0 +1,30 @@
+.title {
+    color: salmon;
+    font-size: 40px;
+    text-align: center;
+}
+
+.names {
+    color:seagreen;
+    font-size: 30px;
+}
+
+.foodimage {
+    width: 500px;
+    height: auto;
+}
+
+.description {
+    color: slategrey;
+    font-size: 18px;
+}
+
+.ingredients {
+    color: navy;
+    font-size: 16px;
+}
+
+.steps {
+    color: rgb(145, 0, 0);
+    font-size: 16px;
+}
